@@ -1,17 +1,11 @@
-# DNS 性能测试工具
+# A DNS Server Query Performance Testing Tool
 
-## 构建
+## Get Started
 
-安装依赖
+Open Terminal and execute these commands
 
 ```sh
 yum install gcc -y
-
-```
-
-构建
-
-```sh
 ./configure
 make
 ```
