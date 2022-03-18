@@ -1,6 +1,4 @@
-# A DNS Server Query Performance Testing Tool
-
-## Get Started
+# Get Started
 
 Open Terminal and execute these commands
 
